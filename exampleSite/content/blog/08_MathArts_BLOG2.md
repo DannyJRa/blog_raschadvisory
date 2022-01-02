@@ -92,8 +92,8 @@ ggsave("harmonograph01.png", p, width = 20, height = 20, units = "cm")
 
 ### Example 1
 
-{{< image src="images/post/img/harmonograph01.png" caption="This is Image Caption" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
+{{< image src="images/post/harmonograph01.png" caption="This is Image Caption" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
 
 ### Example 2
 
-{{< image src="images/post/img/lissajous001.png" caption="This is Image Caption" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
+{{< image src="images/post/lissajous001.png" caption="This is Image Caption" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
