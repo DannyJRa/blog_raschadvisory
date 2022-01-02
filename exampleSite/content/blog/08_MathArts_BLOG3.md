@@ -1,7 +1,7 @@
 ---
 title: MathArt with R
 author: DannyJRa
-date: '2018-05-22'
+date: '2021-05-22'
 slug: mathartwithr
 categories:
   - R
