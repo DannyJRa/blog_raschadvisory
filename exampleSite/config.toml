@@ -90,7 +90,7 @@ copyright = "Designed By [DannyJRa](https://raschadvisory.com/) & Developed in S
 
 # Preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "favicon.png" # use jpg, png, svg or gif format.
 
 # Instagram feed
