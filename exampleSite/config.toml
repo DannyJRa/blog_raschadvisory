@@ -91,7 +91,7 @@ copyright = "Designed By [DannyJRa](https://raschadvisory.com/) & Developed in S
 # Preloader
 [params.preloader]
 enable = true
-preloader = "images/favicon.png" # use jpg, png, svg or gif format.
+preloader = "favicon.png" # use jpg, png, svg or gif format.
 
 # Instagram feed
 [params.instafeed]
@@ -128,12 +128,12 @@ weight = 1
 [[menu.main]]
 name = "Contact"
 url = "https://www.raschadvisory.com/contact/"
-weight = 4
+weight = 7
   
 [[menu.main]]
 weight = 6
 url = "#"
-name = "Pages"
+name = "Groups"
 hasChildren = true
 
   #[[menu.main]]
@@ -143,13 +143,13 @@ hasChildren = true
   #weight = 1
   
   [[menu.main]]
-  parent = "Pages"
+  parent = "Groups"
   name = "Tags"
   url = "tags/"
   weight = 2
   
   [[menu.main]]
-  parent = "Pages"
+  parent = "Groups"
   name = "Category"
   url = "categories/"
   weight = 3
@@ -157,10 +157,14 @@ hasChildren = true
 
 
   
-  [[menu.main]]
-  parent = "Pages"
-  name = "Terms & Conditions"
-  url = "terms-conditions/"
-  weight = 6
 
+[[menu.footer]]
+name = "Contact"
+url = "https://www.raschadvisory.com/contact/"
+weight = 3
+
+[[menu.footer]]
+name = "Terms & Conditions"
+url = "terms-conditions/"
+weight = 4
 
