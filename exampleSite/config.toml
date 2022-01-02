@@ -128,12 +128,12 @@ weight = 1
 [[menu.main]]
 name = "Contact"
 url = "https://www.raschadvisory.com/contact/"
-weight = 4
+weight = 7
   
 [[menu.main]]
 weight = 6
 url = "#"
-name = "Pages"
+name = "Groups"
 hasChildren = true
 
   #[[menu.main]]
@@ -158,9 +158,13 @@ hasChildren = true
 
   
 
-
+[[menu.footer]]
+name = "Contact"
+url = "https://www.raschadvisory.com/contact/"
+weight = 3
 
 [[menu.footer]]
 name = "Terms & Conditions"
 url = "terms-conditions/"
 weight = 4
+
