@@ -1,7 +1,7 @@
 ---
-title: MathArt with R
+title: MathArt2 with R
 author: DannyJRa
-date: '2018-05-22'
+date: '2021-07-22'
 slug: mathartwithr
 categories:
   - R
@@ -97,3 +97,5 @@ ggsave("harmonograph01.png", p, width = 20, height = 20, units = "cm")
 ### Example 2
 
 {{< image src="images/post/lissajous001.png" caption="This is Image Caption" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
+
+{{< image src="images/post/01.jpg" caption="This is Image Caption" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
