@@ -143,13 +143,13 @@ hasChildren = true
   #weight = 1
   
   [[menu.main]]
-  parent = "Pages"
+  parent = "Groups"
   name = "Tags"
   url = "tags/"
   weight = 2
   
   [[menu.main]]
-  parent = "Pages"
+  parent = "Groups"
   name = "Category"
   url = "categories/"
   weight = 3
