@@ -1,8 +1,7 @@
 ---
-title: MathArt with R
+title: MathArt5 with R
 author: DannyJRa
-date: '2018-05-22'
-slug: mathartwithr
+date: '2021-05-22'
 categories:
   - R
 tags:
