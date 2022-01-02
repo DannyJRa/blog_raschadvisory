@@ -92,8 +92,8 @@ ggsave("harmonograph01.png", p, width = 20, height = 20, units = "cm")
 
 ### Example 1
 
-![Art 1](img/harmonograph01.png" caption="This is Image Caption" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
+![Art 1](images/post/harmonograph01.png" caption="This is Image Caption" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
 
 ### Example 2
 
-![Art 2](img/lissajous001.png" caption="This is Image Caption" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
+![Art 2](images/post/lissajous001.png" caption="This is Image Caption" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
