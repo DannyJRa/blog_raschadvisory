@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/bookworm-light/"
+baseURL = "/"
 title = "DannyJRasch - Personal Blog Template"
 theme = "bookworm"
 # post pagination
@@ -90,8 +90,8 @@ copyright = "Designed By [DannyJRa](https://raschadvisory.com/) & Developed in S
 
 # Preloader
 [params.preloader]
-enable = false
-preloader = "" # use jpg, png, svg or gif format.
+enable = true
+preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 
 # Instagram feed
 [params.instafeed]
@@ -127,7 +127,7 @@ weight = 1
   
 [[menu.main]]
 name = "Contact"
-url = "https://www.raschadivsory.com/contact/"
+url = "https://www.raschadvisory.com/contact/"
 weight = 4
   
 [[menu.main]]
