@@ -39,7 +39,6 @@
 
 ```bash
 # clone the repository
-git clone git@github.com:gethugothemes/bookworm-light.git
 
 # cd in the project directory
 $ cd bookworm-light/exampleSite/
